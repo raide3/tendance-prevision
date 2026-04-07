@@ -1,2 +1,3 @@
 # tendance prevision
-analyse de la popularité au niveau de la recherche du mot "station de ski" aur google.
+Le code R est complet il faut juste le segement er en plusieurs fichiers ou commenté. A voir...
+Il faut faire le 4 et le 5 .
